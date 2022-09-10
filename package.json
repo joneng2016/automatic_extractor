@@ -1,0 +1,19 @@
+{
+  "name": "automatic_extractor",
+  "version": "1.0.0",
+  "description": "Extrator automático de arquivos",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joneng2016/automatic_extractor.git"
+  },
+  "author": "Jonathan Morris Samar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joneng2016/automatic_extractor/issues"
+  },
+  "homepage": "https://github.com/joneng2016/automatic_extractor#readme"
+}
